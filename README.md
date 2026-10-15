@@ -37,7 +37,7 @@ https://habr.com/ru/sandbox/257762/
 ### Сохранить файл xlsx в формат csv
 
 В LibreOffice выбрать Файл - Сохранить как…, с такими параметрами
-<img width="642" height="356" alt="image" src="https://github.com/user-attachments/assets/f5836a12-4523-4244-a478-181f73b58b33" />
+<img width="642" height="356" alt="image" src="1.png" />
 
 ### Для конвертации в JSON формат можно выбрать любой онлайн ресурс, например Convert CSV to JSON
 
@@ -46,7 +46,7 @@ https://www.convertcsv.com/csv-to-json.htm
 Step 1: Select your input - Choose File - Нажать кнопку обзор
 
 Скачать json файл, нажав Download Result
-<img width="1512" height="984" alt="image" src="https://github.com/user-attachments/assets/9f61162c-d3d0-491b-bebf-ccd7d3352d08" />
+<img width="1512" height="984" alt="image" src="2.png" />
 
 
 ### Импорт файла в формате JSON
